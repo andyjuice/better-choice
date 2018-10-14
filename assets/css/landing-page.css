@@ -1093,6 +1093,10 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#de8e0009', e
   margin-top: 40px;
   }
 
+  #id.buttons{
+    text-align: center !important;
+  }
+
   .landing-page .parallax .buttons h4{
     color: white;
     display: inline-block;
