@@ -28,6 +28,18 @@ section,
 summary {
   display: block;
 }
+
+.demo-vid{
+
+    min-width: 100%;
+    min-height: 50%;
+    width: auto;
+    height: 500px;
+    z-index: -100;
+    background-size: cover;
+    overflow: hidden;
+}
+
 audio,
 canvas,
 progress,
